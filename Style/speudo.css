@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    cursor: pointer;
+}
+h1:hover{
+ background-color:blue;   
+}
+input:focus{
+  color: red;
+  background-color:gray;
+  outline: 0;
+  border: 2px solid red;
+}
+a:visited{
+    color: red;
+
+
+}
+li:last-child{
+    color: brown;
+}
